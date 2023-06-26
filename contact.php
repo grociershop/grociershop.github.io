@@ -41,7 +41,7 @@
           <div class="col-lg-4">
             <div class="contact-item">
             <i class="bi bi-cart4"></i>
-              <p>Address: 123 Main St, City, Country</p>
+              <p>https://www.tokopedia.com/grociershop</p>
             </div>
           </div>
           <div class="col-lg-4">
