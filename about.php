@@ -27,7 +27,7 @@
         <div class="row">
           <div class="col-lg-6">
             <h2>About Us</h2>
-            <p>Welcome to Grocier Shop – where innovation meets excellence! We are a dynamic and 
+            <p>Welcome to Grocier Shop – where innovation meets excellence!<br>We are a dynamic and 
                 forward-thinking company dedicated to providing cutting-edge solutions in 
                 grocier indrustry.</p><p>With a passion for our costumers' convenience, 
                 we have been at the forefront of revolutionizing grocier industry 
