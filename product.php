@@ -45,7 +45,7 @@
               <h4>MINYAKITA 1 LITER</h4>
               <p>Harga Satuan:<br>
                 Rp. 15.000 ,-</p>
-              <a href="wa.me/081324610584" class="btn btn-primary">Order Here</a>
+              <a href="https://wa.me/081324610584" class="btn btn-primary">Order Here</a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
@@ -54,7 +54,7 @@
               <h4>BANGO 220ML</h4>
               <p>Harga Satuan:<br>
                 Rp. 12.000 ,-</p>
-              <a href="wa.me/081324610584" class="btn btn-primary">Order Here</a>
+              <a href="https://wa.me/081324610584" class="btn btn-primary">Order Here</a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
@@ -63,7 +63,7 @@
             <h4>GMP KEMASAN</h4>
               <p>Harga Satuan:<br>
                 Rp. 13.000 ,-</p>
-              <a href="wa.me/081324610584" class="btn btn-primary">Order Here</a>
+              <a href="https://wa.me/081324610584" class="btn btn-primary">Order Here</a>
             </div>
           </div>
         </div>
