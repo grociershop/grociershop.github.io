@@ -41,7 +41,7 @@
           <div class="col-lg-4">
             <div class="contact-item">
             <i class="bi bi-cart4"></i>
-              <p>Web: https://www.tokopedia.com/grociershop</p>
+              <p>Web: www.tokopedia.com/grociershop</p>
             </div>
           </div>
           <div class="col-lg-4">
